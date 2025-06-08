@@ -40,6 +40,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dftow01&layout=compact&theme=dark)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dftow01&layout=compact&theme=dark)
 
 ---
 
