@@ -1,7 +1,9 @@
 # 👋 Hello, I'm DF!
 
-🎓 Data Science & Artificial Intelligence Major @ National University of Malaysia (UKM)
+🎓 Data Science & Artificial Intelligence Major @ National University of Malaysia(UKM)
+
 🌍 Based in the KL | 💡 Passionate about AI, Machine Learning & Web Development  
+
 🚀 Currently exploring: Temporal Fusion Transformers | AI Ethics | LLM Deployment | Agentic AI
 
 ---
