@@ -42,19 +42,6 @@
 
 ---
 
-### 🧑‍💻 Current Projects
-
-- 🚨 **COVID-19 Forecasting Platform**  
-  A state-level predictive framework for Malaysia using FastAPI, PyTorch, Scikit-Learn, Pandas, NumPy, ML models like LSTM and Temporal Fusion Transformer.  
-
-- 🚗 **Car Dealership Management System**  
-  Role-based inventory system using Laravel + React + Tailwind  
-  Features: CRUD, image upload, status filtering, reporting, data analytics
-
-- 📈 **AI Agent Platform (Startup Project)**  
-  Building a SaaS AI agent infrastructure to automate data workflows and customer service.
-
----
 
 ### ✍️ Blog & Writing (Coming Soon)
 
